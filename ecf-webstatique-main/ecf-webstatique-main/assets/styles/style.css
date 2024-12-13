@@ -170,6 +170,12 @@ main button {
     border: none;
     border-radius: 10px;
 }
+.indisponible {
+    background-color: var(--hover);
+}
+.indisponible:hover {
+    background-color: var(--hover);
+}
 
 main button:hover {
     background-color:  var(--hover-button);
